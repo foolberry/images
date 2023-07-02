@@ -1,1 +1,1 @@
-# test-repository
+# Repository for images
